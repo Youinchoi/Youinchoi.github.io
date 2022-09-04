@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CYI's home"
+title                    : "CYI's Home"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Study Log" 
 name                     : "YouIn Choi"
 description              : "An amazing website."
 url                      : "https://youinchoi.github.io"
